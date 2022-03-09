@@ -1,0 +1,43 @@
+/*
+
+Project Name:  Cookie Monster;
+Client:  Cookie Monster;
+Author: Nicolas Lopez | www.github.com/NicoMyshkin | www.nicoscience.x
+Developed @ One Month
+
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+body{
+	background: url('../images/cookie-monster.jpg');
+	background-position:  center;
+	background-attachment: fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+#container {
+	background:  black;
+	width:  424px;
+	color: white;
+	padding: 15px;
+}
+
+h1{
+	font-size: 80px;
+}
+
+h2{
+	background: #75C1F6;
+	color: black;
+	padding: 5px;
+	border-radius: 5px;
+}
+
+a{
+	color: #75C1F6;
+	text-decoration: none;
+}
